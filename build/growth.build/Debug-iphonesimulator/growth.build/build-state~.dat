@@ -1,0 +1,1026 @@
+Tgrowth
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Info.plist growth/growth-Info.plist
+cProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch.pth growth/growth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-eodsroukhxuwzbblyighkqxelycc/growth-Prefix.pch.pth growth/growth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/main.o /Users/jhjjang/iPhone/incn/growth/growth/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/AppDelegate.o /Users/jhjjang/iPhone/incn/growth/growth/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/FirstViewController.o /Users/jhjjang/iPhone/incn/growth/growth/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/SecondViewController.o /Users/jhjjang/iPhone/incn/growth/growth/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/UICustomSwitch.o /Users/jhjjang/iPhone/incn/growth/growth/UICustomSwitch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/graphData.o /Users/jhjjang/iPhone/incn/growth/growth/graphData.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/HeightViewController.o /Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/WeightViewController.o /Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/PageControlViewController.o /Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth normal i386
+cGenerateDSYMFile /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app.dSYM /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth
+cCopyStringsFile /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/en.lproj/InfoPlist.strings growth/en.lproj/InfoPlist.strings
+cCpResource growth/first.png build/Debug-iphonesimulator/growth.app/first.png
+cCpResource growth/first@2x.png build/Debug-iphonesimulator/growth.app/first@2x.png
+cCpResource growth/second.png build/Debug-iphonesimulator/growth.app/second.png
+cCpResource growth/second@2x.png build/Debug-iphonesimulator/growth.app/second@2x.png
+cCompileXIB /Users/jhjjang/iPhone/incn/growth/growth/en.lproj/FirstViewController.xib
+cCompileXIB /Users/jhjjang/iPhone/incn/growth/growth/en.lproj/SecondViewController.xib
+cCpResource graph.html build/Debug-iphonesimulator/growth.app/graph.html
+cCpResource growth/growth.db build/Debug-iphonesimulator/growth.app/growth.db
+cCpResource growth/childgrow.sqlite build/Debug-iphonesimulator/growth.app/childgrow.sqlite
+cCompileXIB /Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.xib
+cCompileXIB /Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.xib
+cCompileXIB /Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.xib
+cCpResource switchBlueBg.png build/Debug-iphonesimulator/growth.app/switchBlueBg.png
+cCpResource switchOffPlain.png build/Debug-iphonesimulator/growth.app/switchOffPlain.png
+cCpResource switchThumb.png build/Debug-iphonesimulator/growth.app/switchThumb.png
+cCpResource exporting-js.html build/Debug-iphonesimulator/growth.app/exporting-js.html
+cCpResource highcharts-js.html build/Debug-iphonesimulator/growth.app/highcharts-js.html
+cCpResource jquery-js.html build/Debug-iphonesimulator/growth.app/jquery-js.html
+cCpResource grid.js.html build/Debug-iphonesimulator/growth.app/grid.js.html
+cCpResource btn.png build/Debug-iphonesimulator/growth.app/btn.png
+cCpResource fd_font01.png build/Debug-iphonesimulator/growth.app/fd_font01.png
+cCpResource fd_font02.png build/Debug-iphonesimulator/growth.app/fd_font02.png
+cCpResource fd_font03.png build/Debug-iphonesimulator/growth.app/fd_font03.png
+cCpResource fd_font04.png build/Debug-iphonesimulator/growth.app/fd_font04.png
+cCpResource Default.png build/Debug-iphonesimulator/growth.app/Default.png
+cCpResource Default@2x.png build/Debug-iphonesimulator/growth.app/Default@2x.png
+cCpResource Icon.png build/Debug-iphonesimulator/growth.app/Icon.png
+cCpResource Icon@2x.png build/Debug-iphonesimulator/growth.app/Icon@2x.png
+cCpResource ment.png build/Debug-iphonesimulator/growth.app/ment.png
+cCpResource info.png build/Debug-iphonesimulator/growth.app/info.png
+cCpResource sub.png build/Debug-iphonesimulator/growth.app/sub.png
+cCpResource sub@2x.png build/Debug-iphonesimulator/growth.app/sub@2x.png
+cCpResource mainbg.png build/Debug-iphonesimulator/growth.app/mainbg.png
+cTouch /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F30CC7E0000000000000110
+t1328598142
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/libsqlite3.dylib
+c000000004E72EDD300000000000C09E0
+t1316154835
+s788960
+
+N/Users/jhjjang/iPhone/incn/growth/Default.png
+c000000004F3CC351000000000000DC44
+t1329382225
+s56388
+
+N/Users/jhjjang/iPhone/incn/growth/Default@2x.png
+c000000004F3CC351000000000001CB7F
+t1329382225
+s117631
+
+N/Users/jhjjang/iPhone/incn/growth/Icon.png
+c000000004F3CC3500000000000001460
+t1329382224
+s5216
+
+N/Users/jhjjang/iPhone/incn/growth/Icon@2x.png
+c000000004F3CC3510000000000003390
+t1329382225
+s13200
+
+N/Users/jhjjang/iPhone/incn/growth/btn.png
+c000000004F3CB2EA0000000000000ED9
+t1329378026
+s3801
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app.dSYM
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Default.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Default@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/HeightViewController.nib
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Icon.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Icon@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Info.plist
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/PageControlViewController.nib
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/PkgInfo
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/WeightViewController.nib
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/btn.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/childgrow.sqlite
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/en.lproj/FirstViewController.nib
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/en.lproj/SecondViewController.nib
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/exporting-js.html
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/fd_font01.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/fd_font02.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/fd_font03.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/fd_font04.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/first.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/first@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/graph.html
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/grid.js.html
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth.db
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/highcharts-js.html
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/info.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/jquery-js.html
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/mainbg.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/ment.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/second.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/second@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/sub.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/sub@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/switchBlueBg.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/switchOffPlain.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/switchThumb.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/FirstViewController.o
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/HeightViewController.o
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/PageControlViewController.o
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/SecondViewController.o
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/UICustomSwitch.o
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/WeightViewController.o
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/graphData.o
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/growth.LinkFileList
+c000000004F3DCE5E0000000000000475
+t1329450590
+s1141
+
+N/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/growth/exporting-js.html
+c000000004EBCB4140000000000004AF5
+t1320989716
+s19189
+
+N/Users/jhjjang/iPhone/incn/growth/fd_font01.png
+c000000004F3CC03000000000000006D8
+t1329381424
+s1752
+
+N/Users/jhjjang/iPhone/incn/growth/fd_font02.png
+c000000004F3CC028000000000000078D
+t1329381416
+s1933
+
+N/Users/jhjjang/iPhone/incn/growth/fd_font03.png
+c000000004F3CBE660000000000000586
+t1329380966
+s1414
+
+N/Users/jhjjang/iPhone/incn/growth/fd_font04.png
+c000000004F3CBE60000000000000068B
+t1329380960
+s1675
+
+N/Users/jhjjang/iPhone/incn/growth/graph.html
+c000000004F2654EA000000000000081A
+t1327912170
+s2074
+
+N/Users/jhjjang/iPhone/incn/growth/grid.js.html
+c000000004F3228F60000000000000712
+t1328687350
+s1810
+
+N/Users/jhjjang/iPhone/incn/growth/growth/AppDelegate.m
+c000000004F27B0A50000000000000C7E
+t1328001189
+s3198
+
+N/Users/jhjjang/iPhone/incn/growth/growth/FirstViewController.m
+c000000004F3DB4EE0000000000001862
+t1329444078
+s6242
+
+N/Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.m
+c000000004F3239790000000000000590
+t1328691577
+s1424
+
+N/Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.xib
+c000000004F3DB64B0000000000001D25
+t1329444427
+s7461
+
+N/Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.m
+c000000004F3DCE390000000000000F1F
+t1329450553
+s3871
+
+N/Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.xib
+c000000004F3DCE470000000000004545
+t1329450567
+s17733
+
+N/Users/jhjjang/iPhone/incn/growth/growth/SecondViewController.m
+c000000004F3DB97700000000000004A7
+t1329445239
+s1191
+
+N/Users/jhjjang/iPhone/incn/growth/growth/UICustomSwitch.m
+c000000004F29D8480000000000001AC6
+t1328142408
+s6854
+
+N/Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.m
+c000000004F322FBF0000000000000548
+t1328689087
+s1352
+
+N/Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.xib
+c000000004F322E9E0000000000001C40
+t1328688798
+s7232
+
+N/Users/jhjjang/iPhone/incn/growth/growth/childgrow.sqlite
+c000000004F28CE560000000000010000
+t1328074326
+s65536
+
+N/Users/jhjjang/iPhone/incn/growth/growth/en.lproj/FirstViewController.xib
+c000000004F3DB93B0000000000007D6B
+t1329445179
+s32107
+
+N/Users/jhjjang/iPhone/incn/growth/growth/en.lproj/InfoPlist.strings
+c000000004F264A8B000000000000002D
+t1327909515
+s45
+
+N/Users/jhjjang/iPhone/incn/growth/growth/en.lproj/SecondViewController.xib
+c000000004F3DBA4B000000000000283F
+t1329445451
+s10303
+
+N/Users/jhjjang/iPhone/incn/growth/growth/first.png
+c000000004F06721900000000000000FD
+t1325822489
+s253
+
+N/Users/jhjjang/iPhone/incn/growth/growth/first@2x.png
+c000000004F0672190000000000000192
+t1325822489
+s402
+
+N/Users/jhjjang/iPhone/incn/growth/growth/graphData.m
+c000000004F3DB8DC000000000000276E
+t1329445084
+s10094
+
+N/Users/jhjjang/iPhone/incn/growth/growth/growth-Prefix.pch
+c000000004F264A8B000000000000013B
+t1327909515
+s315
+
+N/Users/jhjjang/iPhone/incn/growth/growth/growth.db
+c000000004F272E1F0000000000018000
+t1327967775
+s98304
+
+N/Users/jhjjang/iPhone/incn/growth/growth/main.m
+c000000004F28DE27000000000000014E
+t1328078375
+s334
+
+N/Users/jhjjang/iPhone/incn/growth/growth/second.png
+c000000004F0672190000000000000080
+t1325822489
+s128
+
+N/Users/jhjjang/iPhone/incn/growth/growth/second@2x.png
+c000000004F0672190000000000000082
+t1325822489
+s130
+
+N/Users/jhjjang/iPhone/incn/growth/highcharts-js.html
+c000000004F29DB55000000000004784C
+t1328143189
+s292940
+
+N/Users/jhjjang/iPhone/incn/growth/info.png
+c000000004F3C5E3C00000000000004CA
+t1329356348
+s1226
+
+N/Users/jhjjang/iPhone/incn/growth/jquery-js.html
+c000000004F26238C00000000000164CE
+t1327899532
+s91342
+
+N/Users/jhjjang/iPhone/incn/growth/mainbg.png
+c000000004F3CBE4000000000000014BA
+t1329380928
+s5306
+
+N/Users/jhjjang/iPhone/incn/growth/ment.png
+c000000004F3CBE4C00000000000011E6
+t1329380940
+s4582
+
+N/Users/jhjjang/iPhone/incn/growth/sub.png
+c000000004F3DAEBD00000000000084F8
+t1329442493
+s34040
+
+N/Users/jhjjang/iPhone/incn/growth/sub@2x.png
+c000000004F3CBFEE000000000000F9D7
+t1329381358
+s63959
+
+N/Users/jhjjang/iPhone/incn/growth/switchBlueBg.png
+c000000004F2894550000000000000325
+t1328059477
+s805
+
+N/Users/jhjjang/iPhone/incn/growth/switchOffPlain.png
+c000000004F28945500000000000002AC
+t1328059477
+s684
+
+N/Users/jhjjang/iPhone/incn/growth/switchThumb.png
+c000000004F289455000000000000023F
+t1328059477
+s575
+
+N/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-eodsroukhxuwzbblyighkqxelycc/growth-Prefix.pch.pth
+t2
+s0
+
+Ngrowth/growth-Info.plist
+c000000004F3CC48600000000000005FF
+t1329382534
+s1535
+
+CBuild AST from /Users/jhjjang/iPhone/incn/growth/growth/AppDelegate.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/growth/growth/FirstViewController.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/growth/growth/SecondViewController.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/growth/growth/UICustomSwitch.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/growth/growth/graphData.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/growth/growth/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc02627de05eeb441^59154dde05eeb441^---0#1#0#--18"Check dependencies36"6FDCA345-5F99-445A-A4E7-CEA1009D92B0-
+
+CCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/AppDelegate.o /Users/jhjjang/iPhone/incn/growth/growth/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351143393.225737
+e351143393.307747
+r1
+xCompileC
+xbuild/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/AppDelegate.o
+x/Users/jhjjang/iPhone/incn/growth/growth/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/jhjjang/iPhone/incn/growth/growth/AppDelegate.mabea39e105eeb441^4dd84ee105eeb441^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/AppDelegate.m0000000000000000^2567"CompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/AppDelegate.o growth/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/growth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-generated-files.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-project-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/AppDelegate.d -c /Users/jhjjang/iPhone/incn/growth/growth/AppDelegate.m -o /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/AppDelegate.o36"3AD15D79-27DE-4ACA-902B-4F07F1BB9868-
+
+CCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/FirstViewController.o /Users/jhjjang/iPhone/incn/growth/growth/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351143393.245686
+e351143393.341853
+r1
+xCompileC
+xbuild/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/FirstViewController.o
+x/Users/jhjjang/iPhone/incn/growth/growth/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/jhjjang/iPhone/incn/growth/growth/FirstViewController.m60063fe105eeb441^7b8357e105eeb441^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/FirstViewController.m0000000000000000^2607"CompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/FirstViewController.o growth/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/growth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-generated-files.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-project-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/FirstViewController.d -c /Users/jhjjang/iPhone/incn/growth/growth/FirstViewController.m -o /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/FirstViewController.o36"664D4CDD-0F87-4578-801B-2C07BF3E7ACB-
+
+CCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/HeightViewController.o /Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351143393.436158
+e351143393.509166
+r1
+xCompileC
+xbuild/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/HeightViewController.o
+x/Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.mfdd96fe105eeb441^d65882e105eeb441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.m0000000000000000^2612"CompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/HeightViewController.o growth/HeightViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/growth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-generated-files.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-project-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/HeightViewController.d -c /Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.m -o /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/HeightViewController.o36"80D3C4E2-7FE0-45B1-B7D8-3C116B5BDF72-
+
+CCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/PageControlViewController.o /Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351143393.510510
+e351143393.587092
+r1
+xCompileC
+xbuild/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/PageControlViewController.o
+x/Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.m906b83e105eeb441^834c96e105eeb441^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.m0000000000000000^2637"CompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/PageControlViewController.o growth/PageControlViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/growth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-generated-files.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-project-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/PageControlViewController.d -c /Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.m -o /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/PageControlViewController.o36"C042E4DB-FCCF-4AD3-A31D-F6EF5783465A-
+
+CCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/SecondViewController.o /Users/jhjjang/iPhone/incn/growth/growth/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351143393.309084
+e351143393.376007
+r1
+xCompileC
+xbuild/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/SecondViewController.o
+x/Users/jhjjang/iPhone/incn/growth/growth/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/jhjjang/iPhone/incn/growth/growth/SecondViewController.me6404fe105eeb441^3d4360e105eeb441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/SecondViewController.m0000000000000000^2612"CompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/SecondViewController.o growth/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/growth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-generated-files.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-project-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/SecondViewController.d -c /Users/jhjjang/iPhone/incn/growth/growth/SecondViewController.m -o /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/SecondViewController.o36"FD112E8B-F5CA-4606-9B60-3152B4113076-
+
+CCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/UICustomSwitch.o /Users/jhjjang/iPhone/incn/growth/growth/UICustomSwitch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351143393.343161
+e351143393.454982
+r1
+xCompileC
+xbuild/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/UICustomSwitch.o
+x/Users/jhjjang/iPhone/incn/growth/growth/UICustomSwitch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/jhjjang/iPhone/incn/growth/growth/UICustomSwitch.mecf857e105eeb441^f88874e105eeb441^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/UICustomSwitch.m0000000000000000^2596"CompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/UICustomSwitch.o growth/UICustomSwitch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/growth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-generated-files.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-project-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -fno-objc-arc -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-eodsroukhxuwzbblyighkqxelycc/growth-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/UICustomSwitch.d -c /Users/jhjjang/iPhone/incn/growth/growth/UICustomSwitch.m -o /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/UICustomSwitch.o36"084C4A1C-FF96-4CB8-A076-2ED948B176F6-
+
+CCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/WeightViewController.o /Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351143393.456241
+e351143393.552779
+r1
+xCompileC
+xbuild/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/WeightViewController.o
+x/Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.m31ec74e105eeb441^30838de105eeb441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.m0000000000000000^2612"CompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/WeightViewController.o growth/WeightViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/growth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-generated-files.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-project-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/WeightViewController.d -c /Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.m -o /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/WeightViewController.o36"B1BB6C00-5C0F-4465-9E67-F7E9AA80A84D-
+
+CCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/graphData.o /Users/jhjjang/iPhone/incn/growth/growth/graphData.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351143393.377495
+e351143393.434877
+r1
+xCompileC
+xbuild/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/graphData.o
+x/Users/jhjjang/iPhone/incn/growth/growth/graphData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/jhjjang/iPhone/incn/growth/growth/graphData.ma9c160e105eeb441^c7626fe105eeb441^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/graphData.m0000000000000000^2557"CompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/graphData.o growth/graphData.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/growth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-generated-files.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-project-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/graphData.d -c /Users/jhjjang/iPhone/incn/growth/growth/graphData.m -o /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/graphData.o36"315861DB-48CA-44BE-989B-7852FB246C0D-
+
+CCompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/main.o /Users/jhjjang/iPhone/incn/growth/growth/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351143393.003308
+e351143393.244429
+r1
+xCompileC
+xbuild/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/main.o
+x/Users/jhjjang/iPhone/incn/growth/growth/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/jhjjang/iPhone/incn/growth/growth/main.m2bf900e105eeb441^16a33ee105eeb441^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/main.m0000000000000000^2532"CompileC build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/main.o growth/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/growth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-generated-files.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-project-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/main.d -c /Users/jhjjang/iPhone/incn/growth/growth/main.m -o /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/main.o36"63722DC8-BE3E-4E2A-90D1-0DD9029199AE-
+
+CCompileXIB /Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.xib
+s351143394.170671
+e351143394.224528
+r1
+xCompileXIB
+x/Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compiling /Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.xib19c82be205eeb441^0f7b39e205eeb441^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.xib0000000000000000^682"CompileXIB growth/HeightViewController.xib    cd /Users/jhjjang/iPhone/incn/growth    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/HeightViewController.nib /Users/jhjjang/iPhone/incn/growth/growth/HeightViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"2EDF3218-ADA5-452F-B96C-AB378A35196D-
+
+CCompileXIB /Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.xib
+s351143397.916316
+e351143397.982115
+r1
+xCompileXIB
+x/Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compiling /Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.xib82adeae505eeb441^596cfbe505eeb441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.xib0000000000000000^697"CompileXIB growth/PageControlViewController.xib    cd /Users/jhjjang/iPhone/incn/growth    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/PageControlViewController.nib /Users/jhjjang/iPhone/incn/growth/growth/PageControlViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"A26BB0CD-F47F-43C4-8BCD-FB84B0918DE2-
+
+CCompileXIB /Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.xib
+s351143394.226726
+e351143397.905522
+r1
+xCompileXIB
+x/Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compiling /Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.xib75213ae205eeb441^afd0e7e505eeb441^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.xib0000000000000000^682"CompileXIB growth/WeightViewController.xib    cd /Users/jhjjang/iPhone/incn/growth    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/WeightViewController.nib /Users/jhjjang/iPhone/incn/growth/growth/WeightViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"FB1112E0-C056-42D1-8669-5B5AAD7D24F1-
+
+CCompileXIB /Users/jhjjang/iPhone/incn/growth/growth/en.lproj/FirstViewController.xib
+s351143393.764794
+e351143393.994255
+r1
+xCompileXIB
+x/Users/jhjjang/iPhone/incn/growth/growth/en.lproj/FirstViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compiling /Users/jhjjang/iPhone/incn/growth/growth/en.lproj/FirstViewController.xibbde0c3e105eeb441^ab94fee105eeb441^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/en.lproj/FirstViewController.xib0000000000000000^706"CompileXIB growth/en.lproj/FirstViewController.xib    cd /Users/jhjjang/iPhone/incn/growth    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/en.lproj/FirstViewController.nib /Users/jhjjang/iPhone/incn/growth/growth/en.lproj/FirstViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"B66D0138-F350-4968-87C3-20E2B53F369B-
+
+CCompileXIB /Users/jhjjang/iPhone/incn/growth/growth/en.lproj/SecondViewController.xib
+s351143393.803994
+e351143398.285509
+r1
+xCompileXIB
+x/Users/jhjjang/iPhone/incn/growth/growth/en.lproj/SecondViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compiling /Users/jhjjang/iPhone/incn/growth/growth/en.lproj/SecondViewController.xibc9e7cde105eeb441^ab5f49e605eeb441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/en.lproj/SecondViewController.xib0000000000000000^709"CompileXIB growth/en.lproj/SecondViewController.xib    cd /Users/jhjjang/iPhone/incn/growth    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/en.lproj/SecondViewController.nib /Users/jhjjang/iPhone/incn/growth/growth/en.lproj/SecondViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"DD482527-A82F-448C-A9DC-A76BCBA04A3D-
+
+CCopyStringsFile /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/en.lproj/InfoPlist.strings growth/en.lproj/InfoPlist.strings
+s351143393.709070
+e351143393.740136
+r1
+xCopyStringsFile
+x/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/en.lproj/InfoPlist.strings
+xgrowth/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy growth/en.lproj/InfoPlist.strings34a1b5e105eeb441^0f7bbde105eeb441^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/en.lproj/InfoPlist.strings0000000000000000^497"CopyStringsFile build/Debug-iphonesimulator/growth.app/en.lproj/InfoPlist.strings growth/en.lproj/InfoPlist.strings    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/en.lproj -- growth/en.lproj/InfoPlist.strings36"0377872B-B471-4874-A0DF-BDD22510DD7D-
+
+CCpResource Default.png build/Debug-iphonesimulator/growth.app/Default.png
+s351143398.148956
+e351143398.152551
+r1
+xCpResource
+xDefault.png
+xbuild/Debug-iphonesimulator/growth.app/Default.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/growth.app/Default.png193a26e605eeb441^451027e605eeb441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Default.png00f4887cdcffdf42^477"CpResource Default.png build/Debug-iphonesimulator/growth.app/Default.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/Default.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"7C64750B-675B-474B-B1BE-9145C46E2FD3-
+
+CCpResource Default@2x.png build/Debug-iphonesimulator/growth.app/Default@2x.png
+s351143398.153882
+e351143398.179100
+r1
+xCpResource
+xDefault@2x.png
+xbuild/Debug-iphonesimulator/growth.app/Default@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug-iphonesimulator/growth.app/Default@2x.png107927e605eeb441^dfe22de605eeb441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Default@2x.png00f4887cdcffdf42^492"CpResource "Default@2x.png" "build/Debug-iphonesimulator/growth.app/Default@2x.png"    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jhjjang/iPhone/incn/growth/Default@2x.png" /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"4CAF3C04-43D5-41E5-9195-59546E380DDC-
+
+CCpResource Icon.png build/Debug-iphonesimulator/growth.app/Icon.png
+s351143398.180383
+e351143398.183447
+r1
+xCpResource
+xIcon.png
+xbuild/Debug-iphonesimulator/growth.app/Icon.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/Debug-iphonesimulator/growth.app/Icon.png70412ee605eeb441^ffe92ee605eeb441^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Icon.png00f4887cdcffdf42^468"CpResource Icon.png build/Debug-iphonesimulator/growth.app/Icon.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/Icon.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"A512F08E-F1E5-4F53-87C5-996850D47E16-
+
+CCpResource Icon@2x.png build/Debug-iphonesimulator/growth.app/Icon@2x.png
+s351143398.185348
+e351143398.214038
+r1
+xCpResource
+xIcon@2x.png
+xbuild/Debug-iphonesimulator/growth.app/Icon@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/growth.app/Icon@2x.png05872fe605eeb441^d8d736e605eeb441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Icon@2x.png00f4887cdcffdf42^483"CpResource "Icon@2x.png" "build/Debug-iphonesimulator/growth.app/Icon@2x.png"    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jhjjang/iPhone/incn/growth/Icon@2x.png" /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"8E1AE19A-D404-4146-968A-12227A666C41-
+
+CCpResource btn.png build/Debug-iphonesimulator/growth.app/btn.png
+s351143398.051702
+e351143398.054487
+r1
+xCpResource
+xbtn.png
+xbuild/Debug-iphonesimulator/growth.app/btn.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/Debug-iphonesimulator/growth.app/btn.pngdf4f0de605eeb441^cefd0de605eeb441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/btn.png00f4887cdcffdf42^465"CpResource btn.png build/Debug-iphonesimulator/growth.app/btn.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/btn.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"853CBC1A-D5BB-4E79-A02E-27F2D825BA51-
+
+CCpResource exporting-js.html build/Debug-iphonesimulator/growth.app/exporting-js.html
+s351143398.028778
+e351143398.031769
+r1
+xCpResource
+xexporting-js.html
+xbuild/Debug-iphonesimulator/growth.app/exporting-js.html
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/growth.app/exporting-js.html367407e605eeb441^903008e605eeb441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/exporting-js.html00f4887cdcffdf42^495"CpResource exporting-js.html build/Debug-iphonesimulator/growth.app/exporting-js.html    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/exporting-js.html /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"BE095AB3-AE4B-40D0-816F-2EA8F2A9DC9E-
+
+CCpResource fd_font01.png build/Debug-iphonesimulator/growth.app/fd_font01.png
+s351143398.055773
+e351143398.058635
+r1
+xCpResource
+xfd_font01.png
+xbuild/Debug-iphonesimulator/growth.app/fd_font01.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/growth.app/fd_font01.png755b0ee605eeb441^65010fe605eeb441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/fd_font01.png00f4887cdcffdf42^483"CpResource fd_font01.png build/Debug-iphonesimulator/growth.app/fd_font01.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/fd_font01.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"A0765BDF-7A3A-4D33-BF62-B82BAB522DEB-
+
+CCpResource fd_font02.png build/Debug-iphonesimulator/growth.app/fd_font02.png
+s351143398.079625
+e351143398.104012
+r1
+xCpResource
+xfd_font02.png
+xbuild/Debug-iphonesimulator/growth.app/fd_font02.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/growth.app/fd_font02.pngbddf18e605eeb441^66a01ae605eeb441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/fd_font02.png00f4887cdcffdf42^483"CpResource fd_font02.png build/Debug-iphonesimulator/growth.app/fd_font02.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/fd_font02.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"A157641E-A4A4-4FC9-BB9E-C35FF75A92F3-
+
+CCpResource fd_font03.png build/Debug-iphonesimulator/growth.app/fd_font03.png
+s351143398.128220
+e351143398.141701
+r1
+xCpResource
+xfd_font03.png
+xbuild/Debug-iphonesimulator/growth.app/fd_font03.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/growth.app/fd_font03.png96e820e605eeb441^954624e605eeb441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/fd_font03.png00f4887cdcffdf42^483"CpResource fd_font03.png build/Debug-iphonesimulator/growth.app/fd_font03.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/fd_font03.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"7ED29B29-C959-477C-B670-E30CC9347A78-
+
+CCpResource fd_font04.png build/Debug-iphonesimulator/growth.app/fd_font04.png
+s351143398.142964
+e351143398.147027
+r1
+xCpResource
+xfd_font04.png
+xbuild/Debug-iphonesimulator/growth.app/fd_font04.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/growth.app/fd_font04.png47ad24e605eeb441^bbb825e605eeb441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/fd_font04.png00f4887cdcffdf42^483"CpResource fd_font04.png build/Debug-iphonesimulator/growth.app/fd_font04.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/fd_font04.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"2A7741CF-66BF-4C4A-812C-ACF4759B5A6F-
+
+CCpResource graph.html build/Debug-iphonesimulator/growth.app/graph.html
+s351143394.003324
+e351143394.037340
+r1
+xCpResource
+xgraph.html
+xbuild/Debug-iphonesimulator/growth.app/graph.html
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/growth.app/graph.html56f300e205eeb441^569909e205eeb441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/graph.html00f4887cdcffdf42^474"CpResource graph.html build/Debug-iphonesimulator/growth.app/graph.html    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/graph.html /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"CC5D91C0-17E2-4D64-9B60-83E4A017F7BC-
+
+CCpResource grid.js.html build/Debug-iphonesimulator/growth.app/grid.js.html
+s351143398.046370
+e351143398.050422
+r1
+xCpResource
+xgrid.js.html
+xbuild/Debug-iphonesimulator/growth.app/grid.js.html
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/growth.app/grid.js.html5af30be605eeb441^e3fd0ce605eeb441^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/grid.js.html00f4887cdcffdf42^480"CpResource grid.js.html build/Debug-iphonesimulator/growth.app/grid.js.html    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/grid.js.html /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"8475AAA5-BAAB-40D3-8F06-41FCBB9D5D6F-
+
+CCpResource growth/childgrow.sqlite build/Debug-iphonesimulator/growth.app/childgrow.sqlite
+s351143394.108642
+e351143394.169384
+r1
+xCpResource
+xgrowth/childgrow.sqlite
+xbuild/Debug-iphonesimulator/growth.app/childgrow.sqlite
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/growth.app/childgrow.sqlite7a391ce205eeb441^db692be205eeb441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/childgrow.sqlite00f4887cdcffdf42^506"CpResource growth/childgrow.sqlite build/Debug-iphonesimulator/growth.app/childgrow.sqlite    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/growth/childgrow.sqlite /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"45AF9BEA-7AC9-42F2-8A5A-C9BA344C3D94-
+
+CCpResource growth/first.png build/Debug-iphonesimulator/growth.app/first.png
+s351143393.709681
+e351143393.739889
+r1
+xCpResource
+xgrowth/first.png
+xbuild/Debug-iphonesimulator/growth.app/first.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/growth.app/first.pngaebbb5e105eeb441^056abde105eeb441^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/first.png00f4887cdcffdf42^485"CpResource growth/first.png build/Debug-iphonesimulator/growth.app/first.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/growth/first.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"45BDE76C-3454-46A8-B3F7-3FDC3069929B-
+
+CCpResource growth/first@2x.png build/Debug-iphonesimulator/growth.app/first@2x.png
+s351143393.741256
+e351143393.746369
+r1
+xCpResource
+xgrowth/first@2x.png
+xbuild/Debug-iphonesimulator/growth.app/first@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/growth.app/first@2x.png7adebde105eeb441^390fbfe105eeb441^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/first@2x.png00f4887cdcffdf42^500"CpResource "growth/first@2x.png" "build/Debug-iphonesimulator/growth.app/first@2x.png"    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jhjjang/iPhone/incn/growth/growth/first@2x.png" /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"0E3A7C8E-3FF3-4E29-B641-048DA9070A28-
+
+CCpResource growth/growth.db build/Debug-iphonesimulator/growth.app/growth.db
+s351143394.038619
+e351143394.107377
+r1
+xCpResource
+xgrowth/growth.db
+xbuild/Debug-iphonesimulator/growth.app/growth.db
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/growth.app/growth.db40f709e205eeb441^c6891be205eeb441^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth.db00f4887cdcffdf42^485"CpResource growth/growth.db build/Debug-iphonesimulator/growth.app/growth.db    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/growth/growth.db /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"62F23BFA-7B61-4344-B563-D408CA5B43BC-
+
+CCpResource growth/second.png build/Debug-iphonesimulator/growth.app/second.png
+s351143393.741897
+e351143393.763448
+r1
+xCpResource
+xgrowth/second.png
+xbuild/Debug-iphonesimulator/growth.app/second.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/growth.app/second.png22febde105eeb441^1973c3e105eeb441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/second.png00f4887cdcffdf42^488"CpResource growth/second.png build/Debug-iphonesimulator/growth.app/second.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/growth/second.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"30531EAA-683A-4D07-B89E-59C453AF06A9-
+
+CCpResource growth/second@2x.png build/Debug-iphonesimulator/growth.app/second@2x.png
+s351143393.747729
+e351143393.802732
+r1
+xCpResource
+xgrowth/second@2x.png
+xbuild/Debug-iphonesimulator/growth.app/second@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/growth.app/second@2x.pnge482bfe105eeb441^768acde105eeb441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/second@2x.png00f4887cdcffdf42^503"CpResource "growth/second@2x.png" "build/Debug-iphonesimulator/growth.app/second@2x.png"    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jhjjang/iPhone/incn/growth/growth/second@2x.png" /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"A7B7D261-FF77-4C6B-B1DB-74B08F2FE637-
+
+CCpResource highcharts-js.html build/Debug-iphonesimulator/growth.app/highcharts-js.html
+s351143398.033042
+e351143398.039050
+r1
+xCpResource
+xhighcharts-js.html
+xbuild/Debug-iphonesimulator/growth.app/highcharts-js.html
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/growth.app/highcharts-js.html6e8908e605eeb441^16140ae605eeb441^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/highcharts-js.html00f4887cdcffdf42^498"CpResource highcharts-js.html build/Debug-iphonesimulator/growth.app/highcharts-js.html    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/highcharts-js.html /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"D9E402AC-4AC4-49FA-A026-FA24195EE8D4-
+
+CCpResource info.png build/Debug-iphonesimulator/growth.app/info.png
+s351143398.219633
+e351143398.222539
+r1
+xCpResource
+xinfo.png
+xbuild/Debug-iphonesimulator/growth.app/info.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/Debug-iphonesimulator/growth.app/info.png724e38e605eeb441^54ff38e605eeb441^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/info.png00f4887cdcffdf42^468"CpResource info.png build/Debug-iphonesimulator/growth.app/info.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/info.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"E9855EB2-507C-4F69-B835-68C36911E1EF-
+
+CCpResource jquery-js.html build/Debug-iphonesimulator/growth.app/jquery-js.html
+s351143398.040457
+e351143398.043823
+r1
+xCpResource
+xjquery-js.html
+xbuild/Debug-iphonesimulator/growth.app/jquery-js.html
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug-iphonesimulator/growth.app/jquery-js.htmlea760ae605eeb441^ab420be605eeb441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/jquery-js.html00f4887cdcffdf42^486"CpResource jquery-js.html build/Debug-iphonesimulator/growth.app/jquery-js.html    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/jquery-js.html /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"D6035FC9-A027-4924-8636-AC2746BE8767-
+
+CCpResource mainbg.png build/Debug-iphonesimulator/growth.app/mainbg.png
+s351143398.232961
+e351143398.235876
+r1
+xCpResource
+xmainbg.png
+xbuild/Debug-iphonesimulator/growth.app/mainbg.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/growth.app/mainbg.png28b93be605eeb441^d7693ce605eeb441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/mainbg.png00f4887cdcffdf42^474"CpResource mainbg.png build/Debug-iphonesimulator/growth.app/mainbg.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/mainbg.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"DDD8311A-5951-46E8-827F-313535F1C8E5-
+
+CCpResource ment.png build/Debug-iphonesimulator/growth.app/ment.png
+s351143398.215959
+e351143398.218388
+r1
+xCpResource
+xment.png
+xbuild/Debug-iphonesimulator/growth.app/ment.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/Debug-iphonesimulator/growth.app/ment.pngb75e37e605eeb441^289d38e605eeb441^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/ment.png00f4887cdcffdf42^468"CpResource ment.png build/Debug-iphonesimulator/growth.app/ment.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/ment.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"EB6E0C86-CFBD-4DB5-A9D5-2617FF0E0394-
+
+CCpResource sub.png build/Debug-iphonesimulator/growth.app/sub.png
+s351143398.223819
+e351143398.226820
+r1
+xCpResource
+xsub.png
+xbuild/Debug-iphonesimulator/growth.app/sub.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/Debug-iphonesimulator/growth.app/sub.pnge96039e605eeb441^b14d3ae605eeb441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/sub.png00f4887cdcffdf42^465"CpResource sub.png build/Debug-iphonesimulator/growth.app/sub.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/sub.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"5FD4D8DB-06E3-45C0-99B7-1F545860657E-
+
+CCpResource sub@2x.png build/Debug-iphonesimulator/growth.app/sub@2x.png
+s351143398.228449
+e351143398.231046
+r1
+xCpResource
+xsub@2x.png
+xbuild/Debug-iphonesimulator/growth.app/sub@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/growth.app/sub@2x.png4b8f3ae605eeb441^952c3be605eeb441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/sub@2x.png00f4887cdcffdf42^480"CpResource "sub@2x.png" "build/Debug-iphonesimulator/growth.app/sub@2x.png"    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jhjjang/iPhone/incn/growth/sub@2x.png" /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"4B93078F-AB7E-4975-80EC-AFDB10485C64-
+
+CCpResource switchBlueBg.png build/Debug-iphonesimulator/growth.app/switchBlueBg.png
+s351143397.983465
+e351143398.017552
+r1
+xCpResource
+xswitchBlueBg.png
+xbuild/Debug-iphonesimulator/growth.app/switchBlueBg.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/growth.app/switchBlueBg.png02d9fbe505eeb441^9e7e04e605eeb441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/switchBlueBg.png00f4887cdcffdf42^492"CpResource switchBlueBg.png build/Debug-iphonesimulator/growth.app/switchBlueBg.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/switchBlueBg.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"23514C1B-3103-44FC-A77A-11E94E9E462E-
+
+CCpResource switchOffPlain.png build/Debug-iphonesimulator/growth.app/switchOffPlain.png
+s351143398.018886
+e351143398.021902
+r1
+xCpResource
+xswitchOffPlain.png
+xbuild/Debug-iphonesimulator/growth.app/switchOffPlain.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/growth.app/switchOffPlain.png7dea04e605eeb441^7fdd05e605eeb441^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/switchOffPlain.png00f4887cdcffdf42^498"CpResource switchOffPlain.png build/Debug-iphonesimulator/growth.app/switchOffPlain.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/switchOffPlain.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"2CBA79B7-5854-4C6D-9D72-597D6F5C0D61-
+
+CCpResource switchThumb.png build/Debug-iphonesimulator/growth.app/switchThumb.png
+s351143398.023241
+e351143398.026286
+r1
+xCpResource
+xswitchThumb.png
+xbuild/Debug-iphonesimulator/growth.app/switchThumb.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/growth.app/switchThumb.pngc80606e605eeb441^2ac506e605eeb441^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/switchThumb.png00f4887cdcffdf42^489"CpResource switchThumb.png build/Debug-iphonesimulator/growth.app/switchThumb.png    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/growth/switchThumb.png /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"6DDDC24C-7AC3-4343-A23C-04CB58FF4FEA-
+
+CGenerateDSYMFile /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app.dSYM /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth
+s351143393.665483
+e351143393.700621
+r1
+xGenerateDSYMFile
+x/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app.dSYM
+x/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Generating /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app.dSYMde75aae105eeb441^4d67b3e105eeb441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app.dSYM00f4887cdcffdf42^472"GenerateDSYMFile build/Debug-iphonesimulator/growth.app.dSYM build/Debug-iphonesimulator/growth.app/growth    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth -o /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app.dSYM36"8088D99F-31A6-494F-AA19-6D9DAE8DE2D7-
+
+CLd /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth normal i386
+s351143393.594844
+e351143393.657879
+r1
+xLd
+x/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Link /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth776498e105eeb441^666ca8e105eeb441^---0#0#0#--1020"Ld build/Debug-iphonesimulator/growth.app/growth normal i386    cd /Users/jhjjang/iPhone/incn/growth    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -filelist /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/Objects-normal/i386/growth.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -lsqlite3 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/growth36"99C4DF94-92EC-438C-91E7-6A33A00DA0EA-
+
+CProcessInfoPlistFile /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Info.plist growth/growth-Info.plist
+s351143390.311864
+e351143390.316523
+r1
+xProcessInfoPlistFile
+x/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Info.plist
+xgrowth/growth-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Process growth/growth-Info.plista6ed4fde05eeb441^070951de05eeb441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/growth-Info.plist0000000000000000^564"ProcessInfoPlistFile build/Debug-iphonesimulator/growth.app/Info.plist growth/growth-Info.plist    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility growth/growth-Info.plist -genpkginfo /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app/Info.plist36"AC6B4F6E-7853-42C2-B307-A83B6DE9D640-
+
+CProcessPCH /Users/jhjjang/Library/Developer/Xcode/DerivedData/growth-gfbgxnqhrwjcrjclivahqdtohrts/Index/PrecompiledHeaders/growth-Prefix-ahdallzddgkjpnajbzfncyqqnvlw_ast/growth-Prefix.pch.pth growth/growth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jhjjang/Library/Developer/Xcode/DerivedData/growth-gfbgxnqhrwjcrjclivahqdtohrts/Index/PrecompiledHeaders/growth-Prefix-ewneejnjmdelachevxnrvwfhhkhe_ast/growth-Prefix.pch.pth growth/growth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch.pth growth/growth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351143390.324600
+e351143392.995559
+r1
+xProcessPCH
+x/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch.pth
+xgrowth/growth-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile growth/growth-Prefix.pch823853de05eeb441^b1dcfee005eeb441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/growth-Prefix.pch0000000000000000^2563"ProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch.pth growth/growth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/growth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-generated-files.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-project-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -c /Users/jhjjang/iPhone/incn/growth/growth/growth-Prefix.pch -o /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-ambsrnkoxijgmybznxcqnykclnui/growth-Prefix.pch.d36"CDE3CC9D-0B79-4791-878A-32BEF1C33ED5-
+
+CProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-eodsroukhxuwzbblyighkqxelycc/growth-Prefix.pch.pth growth/growth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351143390.325264
+e351143393.224390
+r1
+xProcessPCH
+x/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-eodsroukhxuwzbblyighkqxelycc/growth-Prefix.pch.pth
+xgrowth/growth-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile growth/growth-Prefix.pch355d53de05eeb441^897e39e105eeb441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/jhjjang/iPhone/incn/growth/growth/growth-Prefix.pch0000000000000000^2577"ProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-eodsroukhxuwzbblyighkqxelycc/growth-Prefix.pch.pth growth/growth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/growth    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-generated-files.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/growth-project-headers.hmap -I/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/growth/build/growth.build/Debug-iphonesimulator/growth.build/DerivedSources -F/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator -fno-objc-arc -c /Users/jhjjang/iPhone/incn/growth/growth/growth-Prefix.pch -o /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-eodsroukhxuwzbblyighkqxelycc/growth-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/growth-Prefix-eodsroukhxuwzbblyighkqxelycc/growth-Prefix.pch.d36"5B60CF7E-B6E5-4B6A-A226-299552DD0BE0-
+
+CTouch /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app
+s351143398.293844
+e351143398.301933
+r1
+xTouch
+x/Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Touch /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app4d4c4be605eeb441^60594de605eeb441^---0#0#0#--312"Touch build/Debug-iphonesimulator/growth.app    cd /Users/jhjjang/iPhone/incn/growth    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jhjjang/iPhone/incn/growth/build/Debug-iphonesimulator/growth.app36"276C5D68-671E-44C4-9207-1D16C63AFF44-
+

@@ -1,0 +1,67 @@
+<script type="text/javascript">
+    
+    var chart;
+    $(document).ready(function() {
+        chart = new Highcharts.Chart({
+               chart: {
+               renderTo: 'container'
+               },
+               xAxis: {
+               min: 0,
+               max: 5.5,
+               title: {
+               text : "TEST"
+               }
+               },
+               yAxis: {
+               min: 0,
+               title: {
+               text : "TEST2"
+               }
+               },tooltip: {
+               formatter: function() {
+               return '<b>'+ this.series.name +'</b><br/>'+ this.x +': '+ this.y ;
+               }
+               },
+               title: {
+               text: 'Scatter plot with regression line'
+               },
+               series: [{
+                        type: 'line',
+                        name: 'Height',
+                        data: [[0, 1.11], [5, 4.51],[3,4.55],[4,4.33]],
+                        marker: {
+                        enabled: false
+                        },
+                        states: {
+                        hover: {
+                        lineWidth: 0
+                        }
+                        },
+                        enableMouseTracking: false
+                        },{
+                        type: 'line',
+                        name: 'Weight',
+                        data: [[0, 2.11], [5, 3.51],[3,4.55],[4,4.33]],
+                        marker: {
+                        enabled: false
+                        },
+                        states: {
+                        hover: {
+                        lineWidth: 0
+                        }
+                        },
+                        enableMouseTracking: false
+                        }, {
+                        type: 'scatter',
+                        name: 'my',
+                        data: [1, 1.5, 2.8, 3.5, 3.9, 4.2],
+                        marker: {
+                        radius: 4
+                        }
+                        }]
+               });
+
+        });
+    
+    </script>
